@@ -169,14 +169,4 @@ Skilled in Python, SQL, Power BI, and Data Visualization
 
 LinkedIn: https://linkedin.com/in/kanak-kumawat-82b799293
 
-GitHub: https://👨‍💻 Author
-
-Hemendra Singh
-
-Aspiring Data Analyst
-
-Skilled in Python, SQL, Power BI, and Data Visualization
-
-LinkedIn: https://linkedin.com/in/hemendra-singh-a413a338a
-
 GitHub: https://github.com/KanakKumawat
